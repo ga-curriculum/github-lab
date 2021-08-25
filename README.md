@@ -115,6 +115,8 @@ The commit message should read: <br>
 The commit message should read: <br>
 "Commit 8 -  Added project.html page and content".
 
+<hr>
+1. Pushing all the changers
 
 ## Conclusion
 
