@@ -2,12 +2,13 @@
 
 ## SEI
 
-# Github practice (Resume Page)
+# Github practice
 
 
 ## Part 1 - Github
 
-### Read all the instructions below before you do anything.  With every lab/homework/project/activity/exercise we give you, ***always*** read through all the instructions before you do start.
+Read all the instructions below before you do anything. 
+With every lab/homework/project/activity/exercise we give you, ***always*** read through all the instructions before you do start.
 
 1. If you cloned this repository, `cd` into the folder that was created by the clone and then skip the rest of this step.  If you did *_not_* clone this repository, create a directory called `git-github-lab` in your directory for today and `cd` into it.  Initialize a git repo. (`git init`). **Do not run `git init` if you are already in a repository that you cloned**. You can check if you're already in a repo by running `git status`.  If it says `fatal: Not a git repository (or any of the parent directories): .git`, then you are **not in a repo** and it is safe to run git init.  If it says ANYTHING ELSE, then DO **NOT** run `git init`.  You do not ever want to run git init inside of an existing repo.  **No git repos inside of git repos!!!**
 
