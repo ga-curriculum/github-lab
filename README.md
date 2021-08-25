@@ -115,12 +115,11 @@ The commit message should read: <br>
 The commit message should read: <br>
 "Commit 8 -  Added project.html page and content".
 
-<hr>
-1. Pushing all the changers
-
 ## Conclusion
 
  1. Inside the `git-github-lab` directory, you should now have a file called `github-lab-answers.md`,  and a directory called `resume_page` which contains `index.html`, `projects.html`, and `style.css`.
 
  2. You should have been adding and committing along the way, but please type `git status` one last time to make sure that everything is committed. If it's not, please commit.
+ 
+ 3.  Push all the changers to Github
 
